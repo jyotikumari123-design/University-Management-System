@@ -1,6 +1,6 @@
 # 🎓 University Management System (Java)
 
-A **Java-based University Management System** with a graphical user interface using **Swing**. This desktop application helps manage various operations of a university, including student details, faculty, courses, fees, and marks — all in one place.
+A **Java-based University Management System** with a graphical user interface using **Swing**. This desktop application helps manage various operations of a university, including student details, faculty details,examination details,fees details,marks details and many more feature in one place .
 
 ---
 
